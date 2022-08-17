@@ -9,7 +9,31 @@
 * Attractive thumbnails, fonts and images,  making experience more user-friendly and interactive.
 * Loop, Seek, Shuffle, Specific Skip, Playlists etc support
 * Global, Users, Chats Top 10 played tracks stats
-* Multi-Language support
+* Multi-Language sup
+
+
+
+
+port
+
+
+
+
+
+
+
+
+
+
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/AhkYkE?referralCode=FyWT6x)
+
+
+
+
+
+
+
 
 
 # 🔗 An Overview
