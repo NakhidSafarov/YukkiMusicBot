@@ -26,8 +26,6 @@ port
 
 
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/AhkYkE?referralCode=FyWT6x)
-
 
 
 
